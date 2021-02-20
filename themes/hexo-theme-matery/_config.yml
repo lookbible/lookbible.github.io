@@ -232,27 +232,27 @@ myProjects:
 # config my skills informations in about page.
 # If you don't want to display this `My Skills` content, you can deactivate or delete this configuration.
 # 在“关于”页面配置"我的技能"信息，如果你不需要这些信息则可以将其设置为不激活或者将其删除.
-mySkills:
-  enable: true
-  data:
-    Java:
-      background: 'linear-gradient(to right, #FF0066 0%, #FF00CC 100%)'
-      percent: 85%
-    JavaScript:
-      background: 'linear-gradient(to right, #9900FF 0%, #CC66FF 100%)'
-      percent: 80%
-    HTML5:
-      background: 'linear-gradient(to right, #2196F3 0%, #42A5F5 100%)'
-      percent: 80%
-    CSS:
-      background: 'linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)'
-      percent: 70%
-    SQL:
-      background: 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)'
-      percent: 90%
-    程序设计:
-      background: 'linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)'
-      percent: 75%
+#mySkills:
+#  enable: true
+#  data:
+#    Linux:
+#      background: 'linear-gradient(to right, #FF0066 0%, #FF00CC 100%)'
+#      percent: 85%
+#    JavaScript:
+#      background: 'linear-gradient(to right, #9900FF 0%, #CC66FF 100%)'
+#      percent: 80%
+#    HTML5:
+#      background: 'linear-gradient(to right, #2196F3 0%, #42A5F5 100%)'
+#      percent: 80%
+#    CSS:
+#      background: 'linear-gradient(to right, #00BCD4 0%, #80DEEA 100%)'
+#      percent: 70%
+#    SQL:
+#      background: 'linear-gradient(to right, #4CAF50 0%, #81C784 100%)'
+#      percent: 90%
+#    程序设计:
+#      background: 'linear-gradient(to right, #FFEB3B 0%, #FFF176 100%)'
+#      percent: 75%
 
 # config gallery of my photos in about page.
 # If you don't want to display this `Gallery` content, you can deactivate or delete this configuration.
