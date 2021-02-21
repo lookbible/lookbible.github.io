@@ -66,8 +66,9 @@ cover:
 dream:
   enable: true
   showTitle: true
-  title: 我的梦想
-  text: 你的话是我脚前的灯，是我路上的光。（诗119:105）
+  title: 关注我们
+  text: "博客网址：www.thebibleworld.com | 微信：lookbible | QQ：245884978"
+  
 
 # Whether to display the musics.
 # 是否在首页显示音乐.
