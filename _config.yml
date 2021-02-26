@@ -132,3 +132,7 @@ backup:
   message: Back up myblog
   repository:
     github: git@github.com:lookbible/lookbible.github.io.git,backup
+#
+search:
+  path: search.xml
+  field: post
